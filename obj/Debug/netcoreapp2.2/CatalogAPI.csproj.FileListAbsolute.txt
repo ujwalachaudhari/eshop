@@ -1,0 +1,32 @@
+D:\Batches\Batch Demos\Hexaware-Pune-Batch5\Microservices\CatalogAPI\CatalogAPI\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\Batches\Batch Demos\Hexaware-Pune-Batch5\Microservices\CatalogAPI\CatalogAPI\bin\Debug\netcoreapp2.2\appsettings.json
+D:\Batches\Batch Demos\Hexaware-Pune-Batch5\Microservices\CatalogAPI\CatalogAPI\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+D:\Batches\Batch Demos\Hexaware-Pune-Batch5\Microservices\CatalogAPI\CatalogAPI\bin\Debug\netcoreapp2.2\CatalogAPI.deps.json
+D:\Batches\Batch Demos\Hexaware-Pune-Batch5\Microservices\CatalogAPI\CatalogAPI\bin\Debug\netcoreapp2.2\CatalogAPI.runtimeconfig.json
+D:\Batches\Batch Demos\Hexaware-Pune-Batch5\Microservices\CatalogAPI\CatalogAPI\bin\Debug\netcoreapp2.2\CatalogAPI.runtimeconfig.dev.json
+D:\Batches\Batch Demos\Hexaware-Pune-Batch5\Microservices\CatalogAPI\CatalogAPI\bin\Debug\netcoreapp2.2\CatalogAPI.dll
+D:\Batches\Batch Demos\Hexaware-Pune-Batch5\Microservices\CatalogAPI\CatalogAPI\bin\Debug\netcoreapp2.2\CatalogAPI.pdb
+D:\Batches\Batch Demos\Hexaware-Pune-Batch5\Microservices\CatalogAPI\CatalogAPI\obj\Debug\netcoreapp2.2\CatalogAPI.csprojAssemblyReference.cache
+D:\Batches\Batch Demos\Hexaware-Pune-Batch5\Microservices\CatalogAPI\CatalogAPI\obj\Debug\netcoreapp2.2\CatalogAPI.RazorAssemblyInfo.cache
+D:\Batches\Batch Demos\Hexaware-Pune-Batch5\Microservices\CatalogAPI\CatalogAPI\obj\Debug\netcoreapp2.2\CatalogAPI.RazorAssemblyInfo.cs
+D:\Batches\Batch Demos\Hexaware-Pune-Batch5\Microservices\CatalogAPI\CatalogAPI\obj\Debug\netcoreapp2.2\CatalogAPI.AssemblyInfoInputs.cache
+D:\Batches\Batch Demos\Hexaware-Pune-Batch5\Microservices\CatalogAPI\CatalogAPI\obj\Debug\netcoreapp2.2\CatalogAPI.AssemblyInfo.cs
+D:\Batches\Batch Demos\Hexaware-Pune-Batch5\Microservices\CatalogAPI\CatalogAPI\obj\Debug\netcoreapp2.2\CatalogAPI.RazorTargetAssemblyInfo.cache
+D:\Batches\Batch Demos\Hexaware-Pune-Batch5\Microservices\CatalogAPI\CatalogAPI\obj\Debug\netcoreapp2.2\CatalogAPI.dll
+D:\Batches\Batch Demos\Hexaware-Pune-Batch5\Microservices\CatalogAPI\CatalogAPI\obj\Debug\netcoreapp2.2\CatalogAPI.pdb
+C:\Users\r1m1nrao\Downloads\EshopMicroservices\CatalogAPI\CatalogAPI\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\r1m1nrao\Downloads\EshopMicroservices\CatalogAPI\CatalogAPI\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\r1m1nrao\Downloads\EshopMicroservices\CatalogAPI\CatalogAPI\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\r1m1nrao\Downloads\EshopMicroservices\CatalogAPI\CatalogAPI\bin\Debug\netcoreapp2.2\CatalogAPI.deps.json
+C:\Users\r1m1nrao\Downloads\EshopMicroservices\CatalogAPI\CatalogAPI\bin\Debug\netcoreapp2.2\CatalogAPI.runtimeconfig.json
+C:\Users\r1m1nrao\Downloads\EshopMicroservices\CatalogAPI\CatalogAPI\bin\Debug\netcoreapp2.2\CatalogAPI.runtimeconfig.dev.json
+C:\Users\r1m1nrao\Downloads\EshopMicroservices\CatalogAPI\CatalogAPI\bin\Debug\netcoreapp2.2\CatalogAPI.dll
+C:\Users\r1m1nrao\Downloads\EshopMicroservices\CatalogAPI\CatalogAPI\bin\Debug\netcoreapp2.2\CatalogAPI.pdb
+C:\Users\r1m1nrao\Downloads\EshopMicroservices\CatalogAPI\CatalogAPI\obj\Debug\netcoreapp2.2\CatalogAPI.csprojAssemblyReference.cache
+C:\Users\r1m1nrao\Downloads\EshopMicroservices\CatalogAPI\CatalogAPI\obj\Debug\netcoreapp2.2\CatalogAPI.RazorAssemblyInfo.cache
+C:\Users\r1m1nrao\Downloads\EshopMicroservices\CatalogAPI\CatalogAPI\obj\Debug\netcoreapp2.2\CatalogAPI.RazorAssemblyInfo.cs
+C:\Users\r1m1nrao\Downloads\EshopMicroservices\CatalogAPI\CatalogAPI\obj\Debug\netcoreapp2.2\CatalogAPI.AssemblyInfoInputs.cache
+C:\Users\r1m1nrao\Downloads\EshopMicroservices\CatalogAPI\CatalogAPI\obj\Debug\netcoreapp2.2\CatalogAPI.AssemblyInfo.cs
+C:\Users\r1m1nrao\Downloads\EshopMicroservices\CatalogAPI\CatalogAPI\obj\Debug\netcoreapp2.2\CatalogAPI.RazorTargetAssemblyInfo.cache
+C:\Users\r1m1nrao\Downloads\EshopMicroservices\CatalogAPI\CatalogAPI\obj\Debug\netcoreapp2.2\CatalogAPI.dll
+C:\Users\r1m1nrao\Downloads\EshopMicroservices\CatalogAPI\CatalogAPI\obj\Debug\netcoreapp2.2\CatalogAPI.pdb

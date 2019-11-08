@@ -107,14 +107,14 @@ namespace CatalogAPI
 
             app.UseSwagger(); // http://localhost:5000/swagger/v1/swagger.json
 
-            if (env.IsDevelopment())
-            {
+            //if (env.IsDevelopment())
+            //{
                 app.UseSwaggerUI(config =>
                 {
                     config.SwaggerEndpoint("/swagger/v1/swagger.json", "Catalog API");
                     config.RoutePrefix = "";
                 });
-            }
+            //}
             
             //app.UseFileServer(new FileServerOptions()
             //{

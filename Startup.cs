@@ -40,12 +40,12 @@ namespace CatalogAPI
                 //.AllowAnyMethod()
                 //.AllowAnyHeader());
 
-                c.AddPolicy("AllowPartners", x =>
-                {
-                    x.WithOrigins("http://microsoft.com", "http://synergetics.com")
-                    .WithMethods("GET", "POST")
-                    .AllowAnyHeader(); 
-                });
+                //c.AddPolicy("AllowPartners", x =>
+                //{
+                //    x.WithOrigins("http://microsoft.com", "http://synergetics.com")
+                //    .WithMethods("GET", "POST")
+                //    .AllowAnyHeader(); 
+                //});
                 c.AddPolicy("AllowAll", x =>
                 {
                     x.AllowAnyOrigin().AllowAnyMethod().AllowAnyHeader();
@@ -102,9 +102,9 @@ namespace CatalogAPI
             {
                 app.UseDeveloperExceptionPage();
             }
-            
+
             app.UseCors("AllowAll");
-            
+
             app.UseSwagger(); // http://localhost:5000/swagger/v1/swagger.json
 
             if (env.IsDevelopment())
@@ -116,12 +116,12 @@ namespace CatalogAPI
                 });
             }
             
-            app.UseFileServer(new FileServerOptions()
-            {
-                RequestPath="/images",
-                FileProvider=new PhysicalFileProvider(Path.Combine(Directory.GetCurrentDirectory(), "Images")),
-                EnableDirectoryBrowsing=true
-            });
+            //app.UseFileServer(new FileServerOptions()
+            //{
+            //    RequestPath="/images",
+            //    FileProvider=new PhysicalFileProvider(Path.Combine(Directory.GetCurrentDirectory(), "Images")),
+            //    EnableDirectoryBrowsing=true
+            //});
 
             app.UseAuthentication();
 
